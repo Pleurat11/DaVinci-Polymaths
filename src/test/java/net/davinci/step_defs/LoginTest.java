@@ -3,7 +3,7 @@ package net.davinci.step_defs;
 import net.davinci.pages.SignInPage;
 import org.testng.annotations.Test;
 
-public class login_stepdefs {
+public class LoginTest {
     SignInPage signInPage = new SignInPage();
 
     @Test
